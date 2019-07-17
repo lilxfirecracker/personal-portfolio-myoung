@@ -9,9 +9,9 @@ function skateButton() {
 }
 
 function modelButton() {
-  window.scrollTo(0, 1080); // For Chrome, Firefox, IE and Opera
+  window.scrollTo(0, 1030); // For Chrome, Firefox, IE and Opera
 }
 
 function pageantButton() {
-  window.scrollTo(0, 1300); // For Chrome, Firefox, IE and Opera
+  window.scrollTo(0, 1400); // For Chrome, Firefox, IE and Opera
 }
