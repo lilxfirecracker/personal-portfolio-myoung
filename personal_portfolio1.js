@@ -5,7 +5,7 @@ function danceButton() {
 }
 
 function skateButton() {
-  window.scrollTo(0, 660); // For Chrome, Firefox, IE and Opera
+  window.scrollTo(0, 640); // For Chrome, Firefox, IE and Opera
 }
 
 function modelButton() {
