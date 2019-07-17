@@ -1,11 +1,11 @@
 alert("Welcome to my page!");
 
 function danceButton() {
-  window.scrollTo(0, 320); // For Chrome, Firefox, IE and Opera
+  window.scrollTo(0, 290); // For Chrome, Firefox, IE and Opera
 }
 
 function skateButton() {
-  window.scrollTo(0, 980); // For Chrome, Firefox, IE and Opera
+  window.scrollTo(0, 800); // For Chrome, Firefox, IE and Opera
 }
 
 function modelButton() {
